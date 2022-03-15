@@ -1,0 +1,5 @@
+com\clientes\entity\VO\cliente.class
+com\clientes\entity\DAO\clienteDAO.class
+com\clientes\entity\controller\clienteController.class
+com\clientes\entity\service\clienteService.class
+com\clientes\entity\EntityServiceClientesV1Application.class
